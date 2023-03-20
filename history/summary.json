@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5209,
-    "timeDay": 5209,
-    "timeWeek": 5209,
-    "timeMonth": 5209,
-    "timeYear": 5209,
+    "time": 5258,
+    "timeDay": 5258,
+    "timeWeek": 5258,
+    "timeMonth": 5258,
+    "timeYear": 5258,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 1061,
-    "timeWeek": 1061,
-    "timeMonth": 1061,
-    "timeYear": 1061,
+    "time": 1205,
+    "timeDay": 1205,
+    "timeWeek": 1205,
+    "timeMonth": 1205,
+    "timeYear": 1205,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2553,
-    "timeDay": 2553,
-    "timeWeek": 2553,
-    "timeMonth": 2553,
-    "timeYear": 2553,
+    "time": 2190,
+    "timeDay": 2190,
+    "timeWeek": 2190,
+    "timeMonth": 2190,
+    "timeYear": 2190,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/anex.agency.ico",
     "slug": "anex",
     "status": "down",
-    "uptime": "0.89%",
-    "uptimeDay": "0.89%",
-    "uptimeWeek": "0.89%",
-    "uptimeMonth": "0.89%",
-    "uptimeYear": "0.89%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-20": 12
+      "2023-03-20": 27
     }
   }
 ]
