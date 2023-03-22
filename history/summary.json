@@ -58,19 +58,19 @@
     "url": "https://online-tor.dunice-testing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/online-tor.dunice-testing.com.ico",
     "slug": "online-tor-test",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
-    "time": 1302,
-    "timeDay": 1302,
-    "timeWeek": 1302,
-    "timeMonth": 1302,
-    "timeYear": 1302,
+    "status": "up",
+    "uptime": "49.99%",
+    "uptimeDay": "49.99%",
+    "uptimeWeek": "49.99%",
+    "uptimeMonth": "49.99%",
+    "uptimeYear": "49.99%",
+    "time": 3040,
+    "timeDay": 3040,
+    "timeWeek": 3040,
+    "timeMonth": 3040,
+    "timeYear": 3040,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 7
     }
   }
 ]
