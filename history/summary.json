@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4830,
-    "timeDay": 3814,
-    "timeWeek": 4830,
-    "timeMonth": 4830,
-    "timeYear": 4830,
+    "time": 4917,
+    "timeDay": 3850,
+    "timeWeek": 4917,
+    "timeMonth": 4917,
+    "timeYear": 4917,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 1516,
-    "timeWeek": 1304,
-    "timeMonth": 1304,
-    "timeYear": 1304,
+    "time": 1256,
+    "timeDay": 1373,
+    "timeWeek": 1256,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2053,
-    "timeDay": 2200,
-    "timeWeek": 2053,
-    "timeMonth": 2053,
-    "timeYear": 2053,
+    "time": 2231,
+    "timeDay": 1864,
+    "timeWeek": 2231,
+    "timeMonth": 2231,
+    "timeYear": 2231,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/online-tor.dunice-testing.com.ico",
     "slug": "online-tor-test",
     "status": "up",
-    "uptime": "49.99%",
-    "uptimeDay": "49.99%",
-    "uptimeWeek": "49.99%",
-    "uptimeMonth": "49.99%",
-    "uptimeYear": "49.99%",
-    "time": 3040,
-    "timeDay": 3040,
-    "timeWeek": 3040,
-    "timeMonth": 3040,
-    "timeYear": 3040,
-    "dailyMinutesDown": {
-      "2023-03-22": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2470,
+    "timeDay": 2470,
+    "timeWeek": 2470,
+    "timeMonth": 2470,
+    "timeYear": 2470,
+    "dailyMinutesDown": {}
   }
 ]
