@@ -58,9 +58,9 @@
     "url": "https://online-tor.dunice-testing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/online-tor.dunice-testing.com.ico",
     "slug": "online-tor-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 3001,
     "timeMonth": 3001,
     "timeYear": 3001,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-27": 0
+    }
   },
   {
     "name": "Anex",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-27": 450,
+      "2023-03-27": 633,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
       "2023-03-24": 1440,
