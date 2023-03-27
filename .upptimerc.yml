@@ -11,6 +11,14 @@ sites:
     url: https://digital-assessment.ru
   - name: Online-Tor_test
     url: https://online-tor.dunice-testing.com/
+  - name: Anex
+    url: https://anex.agency/
+  - name: Moonshot_marketing
+    url: https://www.moonshot-marketing.com/
+  - name: Sibirian_health
+    url: https://ru.siberianhealth.com/ru/
+  - name: Restrek
+    url: https://www.restrek.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
