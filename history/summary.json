@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-11": 791,
+      "2023-04-11": 806,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
@@ -138,19 +138,19 @@
     "url": "https://ru.siberianhealth.com/ru/",
     "icon": "https://icons.duckduckgo.com/ip3/ru.siberianhealth.com.ico",
     "slug": "sibirian-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2593,
-    "timeDay": 2031,
-    "timeWeek": 2092,
-    "timeMonth": 2593,
-    "timeYear": 2593,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2572,
+    "timeDay": 2090,
+    "timeWeek": 2105,
+    "timeMonth": 2572,
+    "timeYear": 2572,
     "dailyMinutesDown": {
-      "2023-04-11": 0
+      "2023-04-11": 16
     }
   },
   {
