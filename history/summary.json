@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vagonmaster.com.ico",
     "slug": "vagonmaster",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "96.20%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.00%",
     "time": 5298,
     "timeDay": 2758,
     "timeWeek": 4284,
@@ -94,7 +94,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-17": 39,
+      "2023-05-17": 510,
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 1440,
@@ -178,9 +178,9 @@
     "url": "https://ru.siberianhealth.com/ru/",
     "icon": "https://icons.duckduckgo.com/ip3/ru.siberianhealth.com.ico",
     "slug": "sibirian-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -190,6 +190,7 @@
     "timeMonth": 2589,
     "timeYear": 2534,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2023-04-11": 16
     }
   },
