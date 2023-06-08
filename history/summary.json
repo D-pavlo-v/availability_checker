@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vagonmaster.com.ico",
     "slug": "vagonmaster",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.76%",
-    "uptimeYear": "97.01%",
+    "uptimeYear": "97.02%",
     "time": 5866,
     "timeDay": 6399,
     "timeWeek": 6719,
@@ -46,9 +46,9 @@
     "url": "https://digital-assessment.ru",
     "icon": "https://icons.duckduckgo.com/ip3/digital-assessment.ru.ico",
     "slug": "sber-q",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 846,
     "timeMonth": 791,
     "timeYear": 949,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-08": 0
+    }
   },
   {
     "name": "Online-Tor_test",
@@ -96,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-08": 41,
+      "2023-06-08": 496,
       "2023-06-07": 1440,
       "2023-06-06": 1440,
       "2023-06-05": 1440,
