@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/digital-assessment.ru.ico",
     "slug": "sber-q",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "46.38%",
     "uptimeMonth": "87.66%",
-    "uptimeYear": "95.66%",
+    "uptimeYear": "95.67%",
     "time": 931,
     "timeDay": 832,
     "timeWeek": 775,
@@ -70,9 +70,9 @@
     "url": "https://online-tor.dunice-testing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/online-tor.dunice-testing.com.ico",
     "slug": "online-tor-test",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -82,6 +82,7 @@
     "timeMonth": 1825,
     "timeYear": 1830,
     "dailyMinutesDown": {
+      "2023-06-15": 0,
       "2023-03-27": 100
     }
   },
@@ -102,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-15": 40,
+      "2023-06-15": 189,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
