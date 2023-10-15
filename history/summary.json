@@ -109,7 +109,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 1428,
+      "2023-10-15": 35,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -327,18 +328,16 @@
     "slug": "moonshot-marketing",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 254,
     "timeWeek": 258,
     "timeMonth": 268,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2023-10-14": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sibirian_health",
