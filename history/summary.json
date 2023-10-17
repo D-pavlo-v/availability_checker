@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 933,
+      "2023-10-17": 940,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
@@ -328,19 +328,19 @@
     "url": "https://www.moonshot-marketing.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.moonshot-marketing.com.ico",
     "slug": "moonshot-marketing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 568,
-    "timeDay": 280,
-    "timeWeek": 255,
-    "timeMonth": 262,
-    "timeYear": 568,
+    "time": 566,
+    "timeDay": 296,
+    "timeWeek": 261,
+    "timeMonth": 265,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 7
     }
   },
   {
