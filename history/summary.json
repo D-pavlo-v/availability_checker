@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-27": 33,
+      "2024-02-27": 929,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -502,9 +502,9 @@
     "url": "https://ru.siberianhealth.com/ru/",
     "icon": "https://icons.duckduckgo.com/ip3/ru.siberianhealth.com.ico",
     "slug": "sibirian-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.92%",
@@ -514,6 +514,7 @@
     "timeMonth": 2867,
     "timeYear": 3346,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2024-02-01": 33,
       "2024-01-31": 56,
       "2023-12-20": 17,
