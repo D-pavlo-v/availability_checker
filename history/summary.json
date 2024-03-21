@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 34,
+      "2024-03-21": 468,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -553,9 +553,9 @@
     "url": "https://www.restrek.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.restrek.com.ico",
     "slug": "restrek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -564,6 +564,8 @@
     "timeWeek": 498,
     "timeMonth": 513,
     "timeYear": 520,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   }
 ]
