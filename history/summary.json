@@ -4,9 +4,9 @@
     "url": "https://vagonmaster.com",
     "icon": "https://icons.duckduckgo.com/ip3/vagonmaster.com.ico",
     "slug": "vagonmaster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 3846,
     "timeYear": 4660,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2024-03-26": 18,
       "2024-02-13": 93,
       "2024-01-15": 599,
@@ -96,9 +97,9 @@
     "slug": "online-tor-test",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1735,
     "timeDay": 1669,
@@ -106,7 +107,6 @@
     "timeMonth": 1638,
     "timeYear": 1709,
     "dailyMinutesDown": {
-      "2024-04-09": 4,
       "2023-06-15": 190
     }
   },
@@ -127,7 +127,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-09": 1320,
+      "2024-04-09": 1334,
       "2024-04-08": 1440,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
